@@ -36,16 +36,16 @@ This directory houses the systematic literature reviews for Akshita Goel. Follow
 
 ## 🏁 Section 3: Synthesis Summary
 
-*Leave this section blank until all reviews are complete. Compile these final conclusions to summarize your findings in this folder.*
+*Overall, these studies suggest that combining advanced sequencing technologies with AI can improve disease diagnosis, enable personalized treatment, and support better healthcare decisions. However, challenges such as high costs, limited clinical implementation, and the need for more transparent AI models must still be addressed before these technologies become widely accessible in routine clinical practice.*
 
 ### 🔍 Common Themes Across Reviewed Papers
-*   *Theme 1: [your notes here]*
-*   *Theme 2: [your notes here]*
+*   *Theme 1: [Improving Genomic Sequencing Technologies Most researchers focused on improving DNA sequencing technologies by overcoming the limitations of older methods. The papers discuss the development of advanced sequencing techniques such as long-read sequencing, which provide more accurate and complete genomic information]*
+*   *Theme 2: [Integration of AI and Bioinformatics The papers also highlight the growing role of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, and bioinformatics in genomics. These technologies help analyze large genomic datasets, identify disease-causing genetic variants, and support clinical decision-making, making precision medicine more accurate and efficient.]*
 
 ### 🛠️ Key Methods/Tools That Appear Repeatedly
-*   *Method/Tool 1: [your notes here]*
-*   *Method/Tool 2: [your notes here]*
+*   *Method/Tool 1: [WHOLE GENOME SEQUENCNG(WGS)]*
+*   *Method/Tool 2: [DEEP LEARNING ALGORITHM]*
 
 ### 🕳️ Gaps in Literature Relevant to Our Project
-*   *Gap 1: [your notes here]*
-*   *Gap 2: [your notes here]*
+*   *Gap 1: [AI and Machine Learning models often require large, high-quality datasets for reliable performance.]*
+*   *Gap 2: [Standardization of sequencing methods and bioinformatics pipelines is still lacking across laboratories.]*
