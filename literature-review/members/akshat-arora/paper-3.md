@@ -1,7 +1,6 @@
-# 📄 Paper 3: Deep learning: new computational modelling techniques for genomics
-*   **Journal / Conference**: Nature Reviews Genetics (2019)
-*   **DOI**: `10.1038/s41576-019-0122-6`
-*   **Link**: [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
+# 📄 Paper 3: De novo Nanopore read quality improvement using deep learning
+*   **Journal / Conference**: BMC Bioinformatics (2019)
+*   **DOI**: 10.1186/s12859-019-3103-z
 
 ---
 
