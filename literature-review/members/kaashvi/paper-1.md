@@ -1,7 +1,6 @@
-# 📄 Paper 1: Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning
-*   **Journal / Conference**: GigaScience (2018)
-*   **DOI**: `10.1093/gigascience/giy037`
-
+# 📄 Paper 1: Benchmarking long-read assembly tools and preprocessing strategies for bacterial genomes: A case study on E. coli DH5α
+*   **Journal / Conference**: Elsevier B.V(2025)
+*   **DOI**: https://doi.org/10.1016/j.btre.2025.e00931
 ---
 
 ## 🔬 Literature Review Table
