@@ -1,7 +1,7 @@
-# 📄 Paper 2: Cell2location maps fine-grained cell types in spatial transcriptomics
-*   **Journal / Conference**: Nature Biotechnology (2022)
-*   **DOI**: `10.1038/s41587-021-01139-4`
-*   **Link**: [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01139-4)
+# 📄 Paper 2: Geometric deep learning framework for de novo genome assembly
+*   **Journal / Conference**: PMC (2025)
+*   **DOI**: `doi: 10.1101/gr.279307.124
+
 
 ---
 
