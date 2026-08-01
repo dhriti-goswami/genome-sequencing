@@ -1,8 +1,6 @@
-# 📄 Paper 1: Deep learning: new computational modelling techniques for genomics
-*   **Journal / Conference**: Nature Reviews Genetics (2019)
-*   **DOI**: `10.1038/s41576-019-0122-6`
-*   **Link**: [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
-
+# 📄 Paper 1: Benchmarking long-read assembly tools and preprocessing strategies for bacterial genomes: A case study on E. coli DH5α
+*   **Journal / Conference**: Elsevier B.V(2025)
+*   **DOI**: https://doi.org/10.1016/j.btre.2025.e00931
 ---
 
 ## 🔬 Literature Review Table

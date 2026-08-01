@@ -8,21 +8,17 @@ This directory houses the systematic literature reviews for Kaashvi. Follow the 
 
 ## 🔬 Section 1: Assigned Papers (Shared Reviews)
 
-1.  **[Paper 1: Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning](paper-1.md)**
-    *   *GigaScience (2018)* | DOI: `10.1093/gigascience/giy037`
-2.  **[Paper 2: Cell2location maps fine-grained cell types in spatial transcriptomics](paper-2.md)**
-    *   *Nature Biotechnology (2022)* | DOI: `10.1038/s41587-021-01139-4`
-3.  **[Paper 3: Deep learning: new computational modelling techniques for genomics](paper-3.md)**
-    *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/s41576-019-0122-6`
-4.  **[Paper 4: A universal SNP and small-indel variant caller using deep neural networks](paper-4.md)**
-    *   *Nature Biotechnology (2018)* | DOI: `10.1038/nbt.4235`
+1.  **[Paper 1: Benchmarking long-read assembly tools and preprocessing strategies for bacterial genomes: A case study on E. coli DH5α](paper-1.md)**
+    *   *Elsevier B.V(2025)* | DOI: `10.1016/j.btre.2025.e00931`
+2.  **[Paper 2: Geometric deep learning framework for de novo genome assembly](paper-2.md)**
+    *   *Genome Research (2025)* | DOI: `10.1101/gr.279307.124`
+3.  **[Paper 3: De novo Nanopore read quality improvement using deep learning](paper-3.md)**
+    *   * BMC Bioinformatics (2019)* | DOI: `10.1186/s12859-019-3103-z`
+4.  **[Paper 4: FEDRANN: effective long-read overlap detection based on dimensionality reduction and approximate nearest neighbors](paper-4.md)**
+    *   *GigaScience(2026)* | DOI: `10.1093/gigascience/giag048`
 
----
-
-## 🔬 Section 2: Self-Selected Papers
-
-5.  **[Paper 5: Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection](paper-5.md)**
-    *   *Data Mining and Knowledge Discovery (2026)* | DOI: `10.1007/s10791-026-10173-2`
+5.  **[Paper 5: Chiron: Translating nanopore raw signal directly into nucleotide sequence using deep learning](paper-5.md)**
+    *   *bioRxiv (2017)* | DOI: `10.1101/179531`
 
 ---
 

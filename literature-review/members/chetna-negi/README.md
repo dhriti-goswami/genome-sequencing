@@ -8,29 +8,17 @@ This directory houses the systematic literature reviews for Chetna Negi. Follow 
 
 ## 🔬 Section 1: Assigned Papers (Shared Reviews)
 
-1.  **[Paper 1: Deep learning: new computational modelling techniques for genomics](paper-1.md)**
-    *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/s41576-019-0122-6`
-2.  **[Paper 2: A universal SNP and small-indel variant caller using deep neural networks](paper-2.md)**
-    *   *Nature Biotechnology (2018)* | DOI: `10.1038/nbt.4235`
-3.  **[Paper 3: An integrated encyclopedia of DNA elements in the human genome](paper-3.md)**
-    *   *Nature (2012)* | DOI: `10.1038/nature11247`
-4.  **[Paper 4: Cell2location maps fine-grained cell types in spatial transcriptomics](paper-4.md)**
-    *   *Nature Biotechnology (2022)* | DOI: `10.1038/s41587-021-01139-4`
+1.  **[Paper 1: Benchmarking long-read assembly tools and preprocessing strategies for bacterial genomes: A case study on E. coli DH5α](paper-1.md)**
+    *   *Elsevier B.V(2025)* | DOI: `10.1016/j.btre.2025.e00931`
+2.  **[Paper 2: Geometric deep learning framework for de novo genome assembly](paper-2.md)**
+    *   *Genome Research (2025)* | DOI: `10.1101/gr.279307.124`
+3.  **[Paper 3: De novo Nanopore read quality improvement using deep learning](paper-3.md)**
+    *   * BMC Bioinformatics (2019)* | DOI: `10.1186/s12859-019-3103-z`
+4.  **[Paper 4: FEDRANN: effective long-read overlap detection based on dimensionality reduction and approximate nearest neighbors](paper-4.md)**
+    *   *GigaScience(2026)* | DOI: `10.1093/gigascience/giag048`
 
----
-
-## 🔬 Section 2: Self-Selected Papers
-
-5.  **[Paper 5: Deep learning for genomics using Janggu](paper-5.md)**
-    *   *Nature Communications (2020)* | DOI: `10.1038/s41467-020-17155-y`
-6.  **[Paper 6: Twelve quick steps for genome assembly and annotation in the classroom](paper-6.md)**
-    *   *PLOS Computational Biology (2020)* | DOI: `10.1371/journal.pcbi.1008325`
-7.  **[Paper 7: EvalDNA: a machine learning-based tool for the comprehensive evaluation of mammalian genome assembly quality](paper-7.md)**
-    *   *BMC Bioinformatics (2021)* | DOI: `10.1186/s12859-021-04480-2`
-8.  **[Paper 8: Genomics enters the deep learning era](paper-8.md)**
-    *   *PeerJ (2022)* | DOI: `10.7717/peerj.13613`
-9.  **[Paper 9: Genomic benchmarks: a collection of datasets for genomic sequence classification](paper-9.md)**
-    *   *BMC Genomic Data (2023)* | DOI: `10.1186/s12863-023-01123-8`
+5.  **[Paper 5: Chiron: Translating nanopore raw signal directly into nucleotide sequence using deep learning](paper-5.md)**
+    *   *bioRxiv (2017)* | DOI: `10.1101/179531`
 
 ---
 

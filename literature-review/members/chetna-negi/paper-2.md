@@ -1,7 +1,6 @@
-# 📄 Paper 2: A universal SNP and small-indel variant caller using deep neural networks
-*   **Journal / Conference**: Nature Biotechnology (2018)
-*   **DOI**: `10.1038/nbt.4235`
-*   **Link**: [Nature Biotechnology](https://www.nature.com/articles/nbt.4235)
+# 📄 Paper 2: Geometric deep learning framework for de novo genome assembly
+*   **Journal / Conference**: PMC (2025)
+*   **DOI**: `doi: 10.1101/gr.279307.124
 
 ---
 

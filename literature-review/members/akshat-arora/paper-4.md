@@ -1,8 +1,6 @@
-# 📄 Paper 4: A universal SNP and small-indel variant caller using deep neural networks
-*   **Journal / Conference**: Nature Biotechnology (2018)
-*   **DOI**: `10.1038/nbt.4235`
-*   **Link**: [Nature Biotechnology](https://www.nature.com/articles/nbt.4235)
-
+# 📄 Paper 4: FEDRANN: effective long-read overlap detection based on dimensionality reduction and approximate nearest neighbors
+*   **Journal / Conference**: GigaScience(2026)
+*   **DOI**: https://doi.org/10.1093/gigascience/giag048
 ---
 
 ## 🔬 Literature Review Table

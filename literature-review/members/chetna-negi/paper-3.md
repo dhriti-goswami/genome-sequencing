@@ -1,7 +1,6 @@
-# 📄 Paper 3: An integrated encyclopedia of DNA elements in the human genome
-*   **Journal / Conference**: Nature (2012)
-*   **DOI**: `10.1038/nature11247`
-*   **Link**: [Nature](https://www.nature.com/articles/nature11247)
+# 📄 Paper 3: De novo Nanopore read quality improvement using deep learning
+*   **Journal / Conference**: BMC Bioinformatics (2019)
+*   **DOI**: 10.1186/s12859-019-3103-z
 
 ---
 
